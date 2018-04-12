@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="lib/de.tudarmstadt.ukp.wikipedia.parser-1.1.0.jar"/>
 	<classpathentry kind="lib" path="lib/json-lib-2.4-jdk15.jar"/>
 	<classpathentry kind="lib" path="lib/ZHConverter.jar"/>
+	<classpathentry kind="lib" path="lib/commons-csv-1.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
